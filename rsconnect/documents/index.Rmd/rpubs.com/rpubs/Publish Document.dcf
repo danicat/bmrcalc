@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/214351/3cae2aa09de747059a98e388016fcbee
+bundleId: https://api.rpubs.com/api/v1/document/214351/3cae2aa09de747059a98e388016fcbee
+url: http://rpubs.com/danicat83/214351
+when: 1475369425.62523
